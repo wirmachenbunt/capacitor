@@ -13,7 +13,11 @@ cd myCapProject
 npm init @capacitor/app
 
 cd my-app
+
 npm i @capacitor/ios
+
 npx cap add ios
+
 npm run build
+
 npx cap sync 
