@@ -31,3 +31,6 @@ cables --export xOit4e -d /Users/chris/Desktop/capacitorTest/my-app/ios/App/App/
 edit index.html and add
 
 allowLocalFileAccess:true,
+
+<img width="759" alt="image" src="https://user-images.githubusercontent.com/1138673/200085757-8f2b1fe9-4331-4f9a-aa97-bcd75a2c0d53.png">
+
