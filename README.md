@@ -31,9 +31,11 @@ npx cap add ios
 
 #if you get an error like xcode-select: error: tool 'xcodebuild' requires Xcode
 #delete ios folder in the project
-and run the following command
+#and run the following command
 
 sudo xcode-select -s /Applications/Xcode.app/Contents/Developer
+
+#and run npx cap add ios again
 
 npm run build
 
