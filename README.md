@@ -1,3 +1,10 @@
+i'm using brew on osx terminal to install things
+https://brew.sh/index_de
+
+and via brew i installed node.js
+brew install node
+
+
 # capacitor
 
 #create folder
