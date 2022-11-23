@@ -23,6 +23,8 @@ cd my-app
 
 npm i @capacitor/ios
 
+brew install cocoapods #install cocoapods
+
 npx cap add ios
 
 npm run build
