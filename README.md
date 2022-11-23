@@ -29,6 +29,12 @@ brew install cocoapods #install cocoapods
 
 npx cap add ios
 
+#if you get an error like xcode-select: error: tool 'xcodebuild' requires Xcode
+#delete ios folder in the project
+and run the following command
+
+sudo xcode-select -s /Applications/Xcode.app/Contents/Developer
+
 npm run build
 
 npx cap sync 
