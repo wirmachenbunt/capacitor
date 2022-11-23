@@ -4,6 +4,8 @@ https://brew.sh/index_de
 and via brew i installed node.js
 brew install node
 
+and you need xcode with ios installed
+
 
 # capacitor
 
